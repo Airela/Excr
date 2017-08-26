@@ -1,2 +1,2 @@
 # Excursion
-Codecademy - Build Websites from Scratch - week 3 project - Excursion: Basic HTML and CSS.
+Codecademy - Build Websites from Scratch - app homepage project - Excursion: Basic HTML and CSS.
